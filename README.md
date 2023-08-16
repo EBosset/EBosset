@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+Bienvenue dans mon coin digital, où je jongle avec le code et peins avec des pixels. 
+Mes projets open source attendent vos contributions comme des amis avides de nouveautés. Rejoignez ce spectacle numérique et jonglez avec moi – une tasse de créativité à la main ! 🎩🎨👨‍💻
 
 <!--
 **EBosset/EBosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
