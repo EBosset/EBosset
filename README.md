@@ -1,13 +1,13 @@
 ### Hello 👋
 
-Welcome to my digital realm, where I juggle with code and paint with pixels.<br/>
+Welcome to my online den, where I juggle with code and paint with pixels.<br/>
 My open-source projects eagerly await your contributions like curious friends seeking novelty. 
 
 Join this digital spectacle and juggle along with me – a cup of creativity in hand! 🎩🎨👨‍💻
 
 <hr/>
 
-Bienvenue dans mon coin digital, où je jongle avec le code et peins avec des pixels.<br/>
+Bienvenue dans mon repaire en ligne, où je jongle avec le code et peins avec des pixels.<br/>
 Mes projets open source attendent vos contributions comme des amis avides de nouveautés. 
 
 Rejoignez ce spectacle numérique et jonglez avec moi – une tasse de créativité à la main ! 🎩🎨👨‍💻
