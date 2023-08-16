@@ -1,16 +1,16 @@
 ### Hello 👋
 
-Welcome to my online den, where I juggle with code and paint with pixels.<br/>
-My open-source projects eagerly await your contributions like curious friends seeking novelty. 
+Welcome to my online lair, where I play with code. <br/>
+My open-source projects eagerly await your contributions like friends hungry for novelties.
 
-Join this digital spectacle and juggle along with me – a cup of creativity in hand! 🎩🎨👨‍💻
+Come join the playtime – a cup of creativity in hand! 🎩🎨👨‍💻"
 
 <hr/>
 
-Bienvenue dans mon repaire en ligne, où je jongle avec le code et peins avec des pixels.<br/>
+Bienvenue dans mon repaire en ligne, où je joue avec du code .<br/>
 Mes projets open source attendent vos contributions comme des amis avides de nouveautés. 
 
-Rejoignez ce spectacle numérique et jonglez avec moi – une tasse de créativité à la main ! 🎩🎨👨‍💻
+Venez jouer – une tasse de créativité à la main ! 🎩🎨👨‍💻
 
 <!--
 **EBosset/EBosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
