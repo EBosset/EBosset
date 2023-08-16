@@ -10,7 +10,7 @@ Come join the playtime – a cup of creativity in hand! 🎩🎨👨‍💻"
 Bienvenue dans mon repaire en ligne, où je joue avec du code .<br/>
 Mes projets open source attendent vos contributions comme des amis avides de nouveautés. 
 
-Venez jouer – une tasse de créativité à la main ! 🎩🎨👨‍💻
+Venez jouer  – une tasse de créativité à la main ! 🎩🎨👨‍💻
 
 <!--
 **EBosset/EBosset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
